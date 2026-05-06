@@ -14,5 +14,13 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshRana446/api-latency-monitor.git"
+  },
+  "homepage": "https://github.com/HarshRana446/api-latency-monitor#readme",
+  "bugs": {
+    "url": "https://github.com/HarshRana446/api-latency-monitor/issues"
   }
 }
