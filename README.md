@@ -3,9 +3,7 @@
 ![npm version](https://img.shields.io/npm/v/api-latency-monitor)
 ![license](https://img.shields.io/npm/l/api-latency-monitor)
 ![downloads](https://img.shields.io/npm/dt/api-latency-monitor)
-![node](https://img.shields.io/node/v/api-latency-monitor)
-![issues](https://img.shields.io/github/issues/HarshRana446/api-latency-monitor)
-![stars](https://img.shields.io/github/stars/HarshRana446/api-latency-monitor)
+
 
 A lightweight and production-ready Express middleware for monitoring API latency, response times, slow endpoints, and backend performance in Node.js applications.
 
